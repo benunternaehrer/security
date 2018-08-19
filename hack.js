@@ -1,4 +1,3 @@
 (function(){
-    console.log('hacked');
-
+    console.log('hacked file');
 })();
