@@ -1,4 +1,4 @@
 (function(){
-    console.log('so far so good');
+    console.log('hacked');
 
 })();
